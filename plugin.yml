@@ -3,5 +3,5 @@ version: 1.0
 api: 4.0.0
 author: Rayyanabdo3
 main: Daily\Main
-description: Runs a command when a player joins for the first time each day.
+description: When A Player Joins The Server Every Day The Player a command of choice will be executed.
 commands: []
